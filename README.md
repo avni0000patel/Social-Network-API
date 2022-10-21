@@ -15,7 +15,7 @@ Moment - a JavaScript date library for parsing, validating, manipulating, and fo
 
 Mongoose - a MongoDB object modeling tool designed to work in an asynchronous environment
 
-Nodemon - a tool that helps develop Node.js based applications by automatically restarting the node application when file changes in the directory are detected.
+Nodemon - a tool that helps develop Node.js based applications by automatically restarting the node application when file changes in the directory are detected
 
 ## Instructions
 Run the following:
